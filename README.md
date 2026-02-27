@@ -1,7 +1,7 @@
 ML Project – Git & GitHub Workflow Assignment
 Student Details
-Name: Nanthini M
-Course: MBA – Business Analytics
+Name: VINUMON V S
+Course: Certification in Applied AI & ML Essentials
 Subject: Version Control using Git & GitHub
 
 Project Objective
